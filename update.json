@@ -2,16 +2,16 @@
     "version": "0.13.57",
     "files": [
         {
-            "path": "/cliente/argentum.exe",
-            "url": "https://github.com/ArgentumTester/server/raw/refs/heads/main/Cliente.zip",
-            "checksum": "A1",
-            "size": 4500
+            "path": "data/maps/map1.dat",
+            "url": "https://example.com/updates/data/maps/map1.dat",
+            "checksum": "abc123",
+            "size": 1024
         },
         {
-            "path": "cucsi.exe",
-            "url": "https://github.com/ArgentumTester/server/raw/refs/heads/main/Cucsi%20Ao.zip",
-            "checksum": "A2",
-            "size": 500
+            "path": "data/gfx/sprites/sprite1.png",
+            "url": "https://example.com/updates/data/gfx/sprites/sprite1.png",
+            "checksum": "def456",
+            "size": 2048
         }
     ]
 }

@@ -1,0 +1,17 @@
+{
+    "version": "0.13.57",
+    "files": [
+        {
+            "path": "data/maps/map1.dat",
+            "url": "https://example.com/updates/data/maps/map1.dat",
+            "checksum": "abc123",
+            "size": 1024
+        },
+        {
+            "path": "data/gfx/sprites/sprite1.png",
+            "url": "https://example.com/updates/data/gfx/sprites/sprite1.png",
+            "checksum": "def456",
+            "size": 2048
+        }
+    ]
+}

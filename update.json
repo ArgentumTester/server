@@ -2,7 +2,7 @@
     "version": "0.13.57",
     "files": [
         {
-            "path": "actualizacion1",
+            "path": "actualizacion",
             "url": "https://github.com/ArgentumTester/server/raw/refs/heads/main/Cliente.zip",
             "checksum": "A1",
             "size": 4500

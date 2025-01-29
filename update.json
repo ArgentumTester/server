@@ -3,9 +3,9 @@
     "files": [
         {
             "path": "A1",
-            "url": "https://github.com/ao-libre/ao-cliente/archive/refs/heads/master.zip",
+            "url": "https://github.com/ArgentumTester/server/raw/refs/heads/main/Cliente.zip",
             "checksum": "A1",
-            "size": 300000
+            "size": 4500
         },
         {
             "path": "A2",

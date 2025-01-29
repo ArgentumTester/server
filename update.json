@@ -5,13 +5,13 @@
             "path": "A1",
             "url": "https://github.com/ao-libre/ao-cliente/archive/refs/heads/master.zip",
             "checksum": "A1",
-            "size": 373.414.920 
+            "size": 373414920 
         },
         {
             "path": "A2",
             "url": "https://github.com/ao-libre/ao-server/archive/refs/heads/master.zip",
             "checksum": "A2",
-            "size": 500
+            "size": 7491584
         }
     ]
 }

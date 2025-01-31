@@ -5,13 +5,13 @@
             "path": "a1.zip",
             "url": "https://github.com/ArgentumTester/server/raw/refs/heads/main/Cliente.zip",
             "checksum": "A1",
-            "size": 4500
+            "size": 2650112
         },
         {
             "path": "a2.zip",
             "url": "https://github.com/ArgentumTester/server/raw/refs/heads/main/Cucsi%20Ao.zip",
             "checksum": "A2",
-            "size": 500
+            "size": 502
         }
     ]
 }

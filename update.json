@@ -3,9 +3,9 @@
     "files": [
         {
             "path": "a1.zip",
-            "url": "https://github.com/ArgentumTester/server/raw/refs/heads/main/Cliente.zip",
+            "url": "https://github.com/ArgentumTester/server/raw/refs/heads/main/ACTUALIZACION01.zip",
             "checksum": "A1",
-            "size": 2650112
+            "size": 2654208
         },
         {
             "path": "a2.zip",

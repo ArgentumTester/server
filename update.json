@@ -1,14 +1,14 @@
 {
-     "version": "v1.0.1",
+    "version": "v1.0.1",
     "files": [
         {
-            "path": "a1.zip",
+            "path": "ACTUALIZACION01.zip",
             "url": "https://github.com/ArgentumTester/server/raw/refs/heads/main/ACTUALIZACION01.zip",
             "checksum": "A1",
             "size": 2654208
         },
         {
-            "path": "a2.zip",
+            "path": "Cucsi_Ao.zip",
             "url": "https://github.com/ArgentumTester/server/raw/refs/heads/main/Cucsi%20Ao.zip",
             "checksum": "A2",
             "size": 502
